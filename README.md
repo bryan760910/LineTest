@@ -1,2 +1,2 @@
-bottender init
+bottender init <br />
 npm run dev
